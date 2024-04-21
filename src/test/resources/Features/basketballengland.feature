@@ -42,7 +42,7 @@ Feature: Creating users
     And I have entered first name "Jessica"
     And I have entered last name "Adamsson"
     And I have entered email "Jes.ada@mail.com" and confirmed email "Jes.ada@mail.com"
-    And I have entered password "Password123" and confirmed password "Password1234"
+    And I have entered password "Password123" and confirmed password "Password123"
     And I have not checked terms and condition
     And I have checked over 18 or person with parental responsibility
     And I have checked code of conduct
